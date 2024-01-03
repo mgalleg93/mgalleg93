@@ -1,6 +1,6 @@
-### Hello! Thank you for visiting my GitHub 👋
+## Hello! Thank you for visiting my GitHub 👋
 
-## I am a front end web application developer working out of Phoenix Arizona. 
+### I am a front end web application developer working out of Phoenix Arizona :us:. 
 
 
 <!--
