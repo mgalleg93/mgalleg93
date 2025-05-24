@@ -1,9 +1,9 @@
-## 👋 Hello there! I'm Miguel — a Web Applications Developer based in Phoenix, Arizona.
+## Hello there! I'm Miguel — a Web Applications Developer based in Phoenix, Arizona.
 
 I'm passionate about building intuitive, responsive applications that solve real-world problems. With experience across both frontend and backend technologies, I enjoy turning complex challenges into elegant, user-friendly solutions.
 
 ### 🛠️ Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,python,react,bootstrap,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,cs,java,python,dotnet,redux)](https://skillicons.dev)
 
 ### 🌟 A few things about me:
 - 🔧 Currently building modern web apps using React, Django, and .NET
